@@ -40,7 +40,7 @@
             </form>
             <!-- Login Form Ends HEre -->
 
-            <p class="text-center">Created By - <a href="www.vijaythapa.com">Vijay Thapa</a></p>
+            <p class="text-center">Created By - <a href="#">Mohit Verma</a></p>
         </div>
 
     </body>
